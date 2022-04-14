@@ -6,12 +6,13 @@ This repository contains data science projects/assignments completed by me.
 - **Data Analysis and Visualization** <br/>
   - Extracting and visualizing Stock Data [[Assignment](https://github.com/TRL2508/Data-Science-Portfolio/blob/d6666ab23f35a42a9d55d595868a8145122dcd24/Assignment%20-%20Extracting%20and%20Visualizing%20Stock%20Data.ipynb "Assignment - Extracting and Visualizing Stock Data.ipynb")] <br/>
   Extract stock data (essential data) from a dataset and displaying the data in a graph. <br/>
-  - Explore and visualize the dataset (Immigration to Canada from 1980 to 2013) using pandas, numpy, matplotlib to plot charts/graphs. [[]( "")] <br/>
+  - Explore and visualize the dataset (Immigration to Canada from 1980 to 2013) using pandas, numpy, matplotlib to plot charts/graphs. <br/>
   a. [Line Plots](https://github.com/TRL2508/Data-Science-Portfolio/blob/d4088b10a361046492b7b2f5424ac3c697495aca/Immigration%20to%20Canada%20dataset%20-%20Line%20Plots.ipynb "Immigration to Canada dataset - Line Plots.ipynb") <br/>
   b. [Area Plots, Histograms and Bar Charts](https://github.com/TRL2508/Data-Science-Portfolio/blob/d4088b10a361046492b7b2f5424ac3c697495aca/Immigration%20to%20Canada%20dataset%20-%20Area%20Plots,%20Histograms%20and%20Bar%20Charts.ipynb "Immigration to Canada dataset - Area Plots, Histograms and Bar Charts.ipynb") <br/>
   c. [Pie Charts, Box Plots, Scatter Plots and Bubble Plots](https://github.com/TRL2508/Data-Science-Portfolio/blob/d4088b10a361046492b7b2f5424ac3c697495aca/Immigration%20to%20Canada%20dataset%20-%20Pie%20Charts,%20Box%20Plots,%20Scatter%20Plots%20and%20Bubble%20Plots.ipynb "Immigration to Canada dataset - Pie Charts, Box Plots, Scatter Plots and Bubble Plots.ipynb") <br/>
   d. [Waffle Charts, Word Clouds and Regression Plots](https://github.com/TRL2508/Data-Science-Portfolio/blob/d4088b10a361046492b7b2f5424ac3c697495aca/Immigration%20to%20Canada%20dataset%20-%20Waffle%20Charts,%20Word%20Clouds%20and%20Regression%20Plots.ipynb "Immigration to Canada dataset - Waffle Charts, Word Clouds and Regression Plots.ipynb") <br/>
   e. [Maps](https://github.com/TRL2508/Data-Science-Portfolio/blob/d4088b10a361046492b7b2f5424ac3c697495aca/Immigration%20to%20Canada%20dataset%20-%20Maps%20in%20Python.ipynb "Immigration to Canada dataset - Maps in Python.ipynb") <br/>
+  - Dashboard
 
 - **Structured Query Language (SQL)** <br/>
   - Working with three Chicago datasets using SQL and Python [[Assignment](https://github.com/TRL2508/Data-Science-Portfolio/blob/d6666ab23f35a42a9d55d595868a8145122dcd24/Assignment%202%20-%20Working%20with%20Chicago%20datasets%20using%20SQL%20and%20Python.ipynb "Assignment 2 - Working with Chicago datasets using SQL and Python.ipynb") | [Project](https://github.com/TRL2508/Data-Science-Portfolio/blob/d6666ab23f35a42a9d55d595868a8145122dcd24/Project%20-%20Advanced%20SQL%20Techniques.ipynb "Project - Advanced SQL Techniques.ipynb")] <br/>
