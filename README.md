@@ -40,4 +40,7 @@ This repository contains data science projects/assignments completed by me.
 
   - Using house sales dataset and develops models to predict housing prices in King Country, Seattle (USA), using the variables or features. [[Assignment](https://github.com/TRL2508/Data-Science-Portfolio/blob/d6666ab23f35a42a9d55d595868a8145122dcd24/Assignment%20-%20House%20Sales%20in%20King%20County.ipynb "Assignment - House Sales in King County.ipynb")] <br/>
 
-
+  - Using historical data of patients whom had suffered from the same illness, to develop a classification model using the following algorithm to predict the class of an unknown patient, or to find a proper drug for a new patient. <br/>
+    a. [decision tree algorithm]( "") <br/>
+    b. []( "") <br/>
+  
