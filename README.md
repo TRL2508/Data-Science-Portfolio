@@ -4,9 +4,6 @@ The projects/assignments are mostly in Jupyter notebook files.<br/>
 <br/>
 Please do contact me via [LinkedIn](https://sg.linkedin.com/in/teh-rui-ling "My LinkedIn profile") if you are hiring a data scientist. :nerd_face:
 
-<a href="">
-</a>
-
 ## List of assignments/projects
 <table>
   <tr align="left" valign="top">
@@ -24,7 +21,7 @@ Please do contact me via [LinkedIn](https://sg.linkedin.com/in/teh-rui-ling "My 
       Then display the data in graphs.
       <br/>
       <br/>
-      <b>Skills:</b> Python (pandas, requests, beautifulsoup, plotly), data visualization 
+      <b>Skills:</b> Python (pandas, requests, beautifulsoup, plotly), data visualization
     </td>
   </tr>
   <tr valign="top">
